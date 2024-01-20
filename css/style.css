@@ -77,14 +77,16 @@ ul{
 .title-terms{
     color: #2E2F42;
     font-size: 20px;
-    
+    line-height: 1.2 ;
+    letter-spacing: 0.02em ;
     font-weight: 500;
 }
 .text-terms{
     color: #434455;
     font-size: 16px;
-    
+    line-height: 1.5;
     font-weight: 400;
+    letter-spacing: 0.02em;
 }
 .section-third{
     background-color: #F4F4FD;
@@ -94,17 +96,27 @@ ul{
     text-align: center;
     font-size: 36px;
     font-weight: 700;
+    line-height: 1.11 ;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 
+}
+.images{
+    background-color: #FFFFFF
 }
 .name{
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 .position{
     color: #434455;
     font-size: 16px;
     font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .header{
     background-color: #E7E9FC;
