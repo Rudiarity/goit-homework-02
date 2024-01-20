@@ -5,11 +5,12 @@
  background-color:#FFFFFF;
  
  
+ 
 }
 ul{
     list-style-type: none;
 }
-.contacts{
+a{
     text-decoration: none;
     font-style: normal;
    
