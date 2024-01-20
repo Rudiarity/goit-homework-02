@@ -14,14 +14,14 @@ ul{
     font-style: normal;
    
 }
-.contacts .contacts-link{
+  .contacts-link{
     color: #434455;
     font-size: 16px;
     line-height: 1.5 ;
     letter-spacing: 0.02em;
 }
-.contacts .contacts-link:hover,
-.contacts .contacts-link:focus{
+ .contacts-link:hover,
+ .contacts-link:focus{
     color: #404bbf;
 }
 
@@ -31,7 +31,7 @@ ul{
    
     }
     
-    .main-information{
+    .information{
         color: #2e2f42;
         font-size: 16px;
         line-height: 1.5 ;
@@ -39,8 +39,8 @@ ul{
         letter-spacing: 0.02em ;
        
      }
-     .main-information:hover,
-     .main-information:focus
+     .information:hover,
+     .information:focus
      {
         color: #404bbf;
      }
